@@ -191,7 +191,7 @@ def send_mail(email):
     msg['To'] = email
     passd="Ravishekhar@11"
 
-    s = smtplib.SMTP('smtp.gmail.com', 465) 
+    s = smtplib.SMTP('smtp.gmail.com', 587) 
     s.starttls() 
     s.login(msg['From'], passd) 
     message_body="""\
