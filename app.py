@@ -189,7 +189,7 @@ def send_mail(email):
     msg['From'] = "aintelligence112@gmail.com"
     msg['Subject'] = "Link of Applications"
     msg['To'] = email
-    #passd="Ravishekhar@99"
+    
     passd="rhrnsvlfquoduzuw"
     s = smtplib.SMTP('smtp.gmail.com', 587) 
     s.starttls() 
