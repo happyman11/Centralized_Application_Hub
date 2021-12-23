@@ -213,7 +213,7 @@ def send_mail(email):
        <dd>1.5. <a href="https://webscrappingsample.herokuapp.com/">Web Scrapping Sample</a> </dd>
        <dd>1.6. <a href="https://happyman11.github.io/foodorder.github.io/">Food ordering Website</a> </dd>
        <dd>1.7. <a href="https://prisondashboard.herokuapp.com/">Prison Data Analysis Dashboard using Dash and Plotly</a> </dd>
-       <dd>1.8. <a href="#">Mass/Bulk mailing Platform</a> </dd>
+       <dd>1.8. <a href="https://mycentralisedapplication.herokuapp.com/">Mass/Bulk mailing Platform</a> </dd>
        
        </p>
        </p>
