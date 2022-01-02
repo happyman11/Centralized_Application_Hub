@@ -213,7 +213,9 @@ def send_mail(email):
        <dd>1.5. <a href="https://webscrappingsample.herokuapp.com/">Web Scrapping Sample</a> </dd>
        <dd>1.6. <a href="https://happyman11.github.io/foodorder.github.io/">Food ordering Website</a> </dd>
        <dd>1.7. <a href="https://prisondashboard.herokuapp.com/">Prison Data Analysis Dashboard using Dash and Plotly</a> </dd>
-       <dd>1.8. <a href="https://mycentralisedapplication.herokuapp.com/">Mass/Bulk mailing Platform</a> </dd>
+       <dd>1.8. <a href="https://mycentralisedapplication.herokuapp.com/">Centralized mailing Platform</a> </dd>
+       <dd>1.9. <a href="https://share.streamlit.io/happyman11/natural-language-processing-sentiment-analysis/main/app.py">NLP- Sentiment Analyser</a> </dd>
+        <dd>1.10. <a href="https://share.streamlit.io/happyman11/natural-language-application-streamlit-deploy-summarizing/main/app.py">NLP- Text Summeriser</a> </dd>
        
        </p>
        </p>
