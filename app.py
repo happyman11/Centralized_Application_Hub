@@ -134,7 +134,7 @@ def send_otp(email,otp):
     msg['From'] = "DeployedApplications@gmail.com"
     msg['Subject'] = "Verification for Centralised Applications by Ravi Shekhar Tiwari"
     msg['To'] = email
-    passd="Ravishekhar@11"
+    passd=""
 
     s = smtplib.SMTP('smtp.gmail.com',465) 
     s.starttls() 
